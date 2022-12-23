@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+#description {
+  width: 1200px;
+  margin: 0 auto;
+  font-size: 1.2rem;
+}
+
+svg {
+  display: block;
+  margin: 0 auto;
+}
+
+#tooltip {
+  z-index: 2;
+  position: absolute;
+  padding: 10px;
+  font-size: 1.2rem;
+  max-width: 300px;
+  background-color: rgb(77, 77, 77);
+  line-height: 1.2;
+  color: white;
+  text-align: center;
+}
